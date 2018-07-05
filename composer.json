@@ -1,1 +1,18 @@
 
+{
+   "repositories": [{
+     "type": "package",
+     "package": {
+        "name": "victorwill/php",
+        "version": "development",
+        "source": {
+            "url": "https://github.com/elketal/php",
+            "type": "git",
+            "reference": "development"
+        }
+    }
+  }],
+  "require": {
+      "victorwill/php": "development"
+  }
+}
