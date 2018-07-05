@@ -1,9 +1,9 @@
-
 {
    "repositories": [{
      "type": "package",
      "package": {
         "name": "victorwill/php",
+        "description": "fleetr php",
         "version": "development",
         "source": {
             "url": "https://github.com/elketal/php",
